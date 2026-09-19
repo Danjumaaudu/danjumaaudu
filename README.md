@@ -23,5 +23,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![My Top Languages](https://vercel.app)danjumaaudu
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danjumaaudu&layout=compact&langs_count=8&hide=css,html)
+
 
