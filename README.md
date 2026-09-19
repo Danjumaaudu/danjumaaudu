@@ -23,6 +23,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danjumaaudu&layout=compact&langs_count=8&hide=css,html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danjumaaudu&layout=compact&langs_count=8&hide=css,html)
 
 
