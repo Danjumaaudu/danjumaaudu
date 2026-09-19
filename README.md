@@ -22,3 +22,6 @@
 [![](https://visitcount.itsvg.in/api?id=Danjumaaudu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![My Top Languages](https://vercel.app)
+
